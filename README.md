@@ -8,4 +8,4 @@ Added text locally
 
 Added text in Newbranch
 
-Resolving conflict
+Resolving conflict text in browser
