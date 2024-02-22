@@ -8,4 +8,5 @@ Added text locally
 
 Added text in Newbranch
 
-Resolving conflict
+Added local conflict
+
